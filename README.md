@@ -1,7 +1,6 @@
 ## 🚀 Features
 - RESTful API architecture
 - Token-based authentication with [Laravel Sanctum](https://laravel.com/docs/sanctum)
-- Role & permission management via [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission)
 - Structured API resources & response formatting
 - Database migrations & seeders for easy setup
 - Ready for Docker (MySQL + Adminer)
